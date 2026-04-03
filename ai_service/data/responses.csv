@@ -1,0 +1,78 @@
+label_name,response
+Refund_not_showing_up,Tell me more about what you're facing and I’ll help you out. Let me guide you step-by-step. Let’s begin by heading to your account settings. Shall we get started?
+activate_my_card,It seems you’re facing an issue with your card. No worries — I’ve got your back. I recommend starting by checking the relevant section in your app. Ready when you are!
+age_limit,Worried about transaction limits? Let me guide you step-by-step. We’ll go through this together — just follow my lead. Shall we get started?
+apple_pay_or_google_pay,Tell me more about what you're facing and I’ll help you out. No worries — I’ve got your back. We’ll go through this together — just follow my lead. Shall we get started?
+atm_support,ATM giving you trouble? I’m here to sort it out for you. We can take care of this by reviewing your recent activity. Would you like me to do that for you?
+automatic_top_up,Tell me more about what you're facing and I’ll help you out. No worries — I’ve got your back. I can also help you raise a service request if needed. Ready when you are!
+balance_not_updated_after_bank_transfer,Need to send or receive money? Let me guide you step-by-step. We’ll go through this together — just follow my lead. Would you like me to do that for you?
+balance_not_updated_after_cheque_or_cash_deposit,Curious about your account balance? Let me guide you step-by-step. I recommend starting by checking the relevant section in your app. Would you like me to do that for you?
+beneficiary_not_allowed,Tell me more about what you're facing and I’ll help you out. No worries — I’ve got your back. Would you like help filing a report or reaching support directly? Want me to walk you through it?
+cancel_transfer,Need to send or receive money? No worries — I’ve got your back. I can also help you raise a service request if needed. Want me to walk you through it?
+card_about_to_expire,It seems you’re facing an issue with your card. No worries — I’ve got your back. I recommend starting by checking the relevant section in your app. Want me to walk you through it?
+card_acceptance,It seems you’re facing an issue with your card. I’m here to sort it out for you. We can take care of this by reviewing your recent activity. Let me know when you’re ready to begin.
+card_arrival,It seems you’re facing an issue with your card. I’m here to sort it out for you. I can also help you raise a service request if needed. Want me to walk you through it?
+card_delivery_estimate,It seems you’re facing an issue with your card. I’m here to sort it out for you. I can also help you raise a service request if needed. Want me to walk you through it?
+card_linking,It seems you’re facing an issue with your card. No worries — I’ve got your back. Let’s begin by heading to your account settings. Shall we get started?
+card_not_working,It seems you’re facing an issue with your card. I’m here to sort it out for you. Let’s begin by heading to your account settings. Would you like me to do that for you?
+card_payment_fee_charged,It seems you’re facing an issue with your card. Let me guide you step-by-step. Would you like help filing a report or reaching support directly? Shall we get started?
+card_payment_not_recognised,It seems you’re facing an issue with your card. I’m here to sort it out for you. Let’s begin by heading to your account settings. Want me to walk you through it?
+card_payment_wrong_exchange_rate,It seems you’re facing an issue with your card. I’m here to sort it out for you. Would you like help filing a report or reaching support directly? Would you like me to do that for you?
+card_swallowed,It seems you’re facing an issue with your card. I’m here to sort it out for you. Let’s begin by heading to your account settings. Want me to walk you through it?
+cash_withdrawal_charge,Tell me more about what you're facing and I’ll help you out. No worries — I’ve got your back. I recommend starting by checking the relevant section in your app. Want me to walk you through it?
+cash_withdrawal_not_recognised,Tell me more about what you're facing and I’ll help you out. No worries — I’ve got your back. I can also help you raise a service request if needed. Ready when you are!
+change_pin,Struggling with your PIN? I’m here to sort it out for you. I recommend starting by checking the relevant section in your app. Want me to walk you through it?
+compromised_card,It seems you’re facing an issue with your card. Let me guide you step-by-step. You might want to block access temporarily until it’s resolved. Let me know when you’re ready to begin.
+contactless_not_working,Tell me more about what you're facing and I’ll help you out. Let me guide you step-by-step. I recommend starting by checking the relevant section in your app. Let me know when you’re ready to begin.
+country_support,Need help accessing services from a different country? Let me guide you step-by-step. Would you like help filing a report or reaching support directly? Let me know when you’re ready to begin.
+declined_card_payment,It seems you’re facing an issue with your card. I’m here to sort it out for you. I can also help you raise a service request if needed. Want me to walk you through it?
+declined_cash_withdrawal,Tell me more about what you're facing and I’ll help you out. No worries — I’ve got your back. We’ll go through this together — just follow my lead. Would you like me to do that for you?
+declined_transfer,Need to send or receive money? No worries — I’ve got your back. I can also help you raise a service request if needed. Shall we get started?
+direct_debit_payment_not_recognised,Tell me more about what you're facing and I’ll help you out. I’m here to sort it out for you. I recommend starting by checking the relevant section in your app. Would you like me to do that for you?
+disposable_card_limits,It seems you’re facing an issue with your card. Let me guide you step-by-step. I recommend starting by checking the relevant section in your app. Would you like me to do that for you?
+edit_personal_details,Tell me more about what you're facing and I’ll help you out. I’m here to sort it out for you. You might want to block access temporarily until it’s resolved. Let me know when you’re ready to begin.
+exchange_charge,Tell me more about what you're facing and I’ll help you out. Let me guide you step-by-step. Would you like help filing a report or reaching support directly? Shall we get started?
+exchange_rate,Tell me more about what you're facing and I’ll help you out. I’m here to sort it out for you. You might want to block access temporarily until it’s resolved. Want me to walk you through it?
+exchange_via_app,Tell me more about what you're facing and I’ll help you out. Let me guide you step-by-step. Would you like help filing a report or reaching support directly? Want me to walk you through it?
+extra_charge_on_statement,Looking for a detailed view of your account activity? Let me guide you step-by-step. Would you like help filing a report or reaching support directly? Ready when you are!
+failed_transfer,Need to send or receive money? No worries — I’ve got your back. We’ll go through this together — just follow my lead. Would you like me to do that for you?
+fiat_currency_support,Tell me more about what you're facing and I’ll help you out. No worries — I’ve got your back. I can also help you raise a service request if needed. Want me to walk you through it?
+get_disposable_virtual_card,It seems you’re facing an issue with your card. I’m here to sort it out for you. Let’s begin by heading to your account settings. Ready when you are!
+get_physical_card,It seems you’re facing an issue with your card. I’m here to sort it out for you. We’ll go through this together — just follow my lead. Would you like me to do that for you?
+getting_spare_card,It seems you’re facing an issue with your card. No worries — I’ve got your back. I can also help you raise a service request if needed. Want me to walk you through it?
+getting_virtual_card,It seems you’re facing an issue with your card. Let me guide you step-by-step. We’ll go through this together — just follow my lead. Ready when you are!
+lost_or_stolen_card,It seems you’re facing an issue with your card. Let me guide you step-by-step. You might want to block access temporarily until it’s resolved. Let me know when you’re ready to begin.
+lost_or_stolen_phone,Tell me more about what you're facing and I’ll help you out. No worries — I’ve got your back. I recommend starting by checking the relevant section in your app. Would you like me to do that for you?
+order_physical_card,It seems you’re facing an issue with your card. Let me guide you step-by-step. Let’s begin by heading to your account settings. Want me to walk you through it?
+passcode_forgotten,Tell me more about what you're facing and I’ll help you out. I’m here to sort it out for you. Let’s begin by heading to your account settings. Ready when you are!
+pending_card_payment,It seems you’re facing an issue with your card. I’m here to sort it out for you. I can also help you raise a service request if needed. Would you like me to do that for you?
+pending_cash_withdrawal,Tell me more about what you're facing and I’ll help you out. I’m here to sort it out for you. We’ll go through this together — just follow my lead. Let me know when you’re ready to begin.
+pending_top_up,Tell me more about what you're facing and I’ll help you out. I’m here to sort it out for you. We can take care of this by reviewing your recent activity. Shall we get started?
+pending_transfer,Need to send or receive money? I’m here to sort it out for you. Would you like help filing a report or reaching support directly? Ready when you are!
+pin_blocked,Struggling with your PIN? No worries — I’ve got your back. You might want to block access temporarily until it’s resolved. Want me to walk you through it?
+receiving_money,Tell me more about what you're facing and I’ll help you out. I’m here to sort it out for you. I can also help you raise a service request if needed. Would you like me to do that for you?
+request_refund,Waiting for a refund? Let me guide you step-by-step. I recommend starting by checking the relevant section in your app. Want me to walk you through it?
+reverted_card_payment?,It seems you’re facing an issue with your card. I’m here to sort it out for you. Let’s begin by heading to your account settings. Ready when you are!
+supported_cards_and_currencies,It seems you’re facing an issue with your card. No worries — I’ve got your back. Let’s begin by heading to your account settings. Let me know when you’re ready to begin.
+terminate_account,Tell me more about what you're facing and I’ll help you out. No worries — I’ve got your back. Let’s begin by heading to your account settings. Want me to walk you through it?
+top_up_by_bank_transfer_charge,Need to send or receive money? No worries — I’ve got your back. I recommend starting by checking the relevant section in your app. Want me to walk you through it?
+top_up_by_card_charge,It seems you’re facing an issue with your card. No worries — I’ve got your back. Let’s begin by heading to your account settings. Shall we get started?
+top_up_by_cash_or_cheque,Having an issue with a cheque? No worries — I’ve got your back. Let’s begin by heading to your account settings. Would you like me to do that for you?
+top_up_failed,Tell me more about what you're facing and I’ll help you out. Let me guide you step-by-step. We’ll go through this together — just follow my lead. Let me know when you’re ready to begin.
+top_up_limits,Worried about transaction limits? Let me guide you step-by-step. Would you like help filing a report or reaching support directly? Let me know when you’re ready to begin.
+top_up_reverted,Tell me more about what you're facing and I’ll help you out. No worries — I’ve got your back. We’ll go through this together — just follow my lead. Shall we get started?
+topping_up_by_card,It seems you’re facing an issue with your card. I’m here to sort it out for you. We’ll go through this together — just follow my lead. Ready when you are!
+transaction_charged_twice,Tell me more about what you're facing and I’ll help you out. No worries — I’ve got your back. Would you like help filing a report or reaching support directly? Ready when you are!
+transfer_fee_charged,Need to send or receive money? Let me guide you step-by-step. Let’s begin by heading to your account settings. Ready when you are!
+transfer_into_account,Need to send or receive money? No worries — I’ve got your back. Would you like help filing a report or reaching support directly? Let me know when you’re ready to begin.
+transfer_not_received_by_recipient,Need to send or receive money? No worries — I’ve got your back. Would you like help filing a report or reaching support directly? Shall we get started?
+transfer_timing,Need to send or receive money? I’m here to sort it out for you. I can also help you raise a service request if needed. Would you like me to do that for you?
+unable_to_verify_identity,Let’s verify your identity to keep your account secure. I’m here to sort it out for you. I can also help you raise a service request if needed. Let me know when you’re ready to begin.
+verify_my_identity,Let’s verify your identity to keep your account secure. I’m here to sort it out for you. Would you like help filing a report or reaching support directly? Want me to walk you through it?
+verify_source_of_funds,Tell me more about what you're facing and I’ll help you out. No worries — I’ve got your back. I recommend starting by checking the relevant section in your app. Let me know when you’re ready to begin.
+verify_top_up,Tell me more about what you're facing and I’ll help you out. Let me guide you step-by-step. We’ll go through this together — just follow my lead. Want me to walk you through it?
+virtual_card_not_working,It seems you’re facing an issue with your card. Let me guide you step-by-step. We can take care of this by reviewing your recent activity. Let me know when you’re ready to begin.
+visa_or_mastercard,It seems you’re facing an issue with your card. Let me guide you step-by-step. I can also help you raise a service request if needed. Want me to walk you through it?
+why_verify_identity,Let’s verify your identity to keep your account secure. Let me guide you step-by-step. I can also help you raise a service request if needed. Want me to walk you through it?
+wrong_amount_of_cash_received,Tell me more about what you're facing and I’ll help you out. I’m here to sort it out for you. I recommend starting by checking the relevant section in your app. Would you like me to do that for you?
+wrong_exchange_rate_for_cash_withdrawal,Tell me more about what you're facing and I’ll help you out. No worries — I’ve got your back. Let’s begin by heading to your account settings. Want me to walk you through it?

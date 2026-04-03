@@ -1,0 +1,6 @@
+venv/
+venv_py312/
+__pycache__/
+*.pyc
+*.pyo
+.env
